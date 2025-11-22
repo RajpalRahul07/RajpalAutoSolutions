@@ -151,7 +151,7 @@ export default {
       return fileUris;
     },
 
-    //Hi   rahul
+    //Hi   rahul rajpal
     async shareIndividual(v) {
       const text = `🚗 *Vehicle Details:*\n
 Make: ${v.make}\nModel: ${v.model}\nVariant: ${v.variant}\nOwners: ${v.owners}\nKm Driven: ${v.km}\nFuel: ${v.fuel}\nInsurance: ${v.insurance}\nPUC: ${v.puc}\n${
